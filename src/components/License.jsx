@@ -11,21 +11,21 @@ export const License = () => {
      </div>
      <Marquee speed={50} delay={0} pauseOnHover={false}>
     {/* License one */}
-    <div className="flex items-center justify-between w-full">
+    <div className="flex items-center justify-between w-full mb-4">
     <div className="flex flex-col lg:flex-row w-full items-start lg:items-center rounded bg-white shadow">
         <img src={LicenseOne} alt="Your Image" className="w-full lg:w-2/3 h-64 object-cover lg:rounded-l" />
-        
+
     </div>
 </div>
     {/* License two */}
-    <div className="flex items-center justify-between w-full">
+    <div className="flex items-center justify-between w-full mb-4">
     <div className="flex flex-col lg:flex-row w-full items-start lg:items-center rounded bg-white shadow">
         <img src={LicenseOne} alt="Your Image" className="w-full lg:w-2/3 h-64 object-cover lg:rounded-l" />
-       
+
     </div>
 </div>
     {/* License three */}
-    <div className="flex items-center justify-between w-full">
+    <div className="flex items-center justify-between w-full mb-4">
     <div className="flex flex-col lg:flex-row w-full items-start lg:items-center rounded bg-white shadow">
         <img src={LicenseOne} alt="Your Image" className="w-full lg:w-2/3 h-64 object-cover lg:rounded-l" />
        

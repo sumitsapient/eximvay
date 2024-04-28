@@ -13,14 +13,14 @@ export const Carousel = () => {
   return (
     <>
     <div className="mb-4 sm:mb-0 md:mb-0 lg:mb-0 xl:mb-0 lg:w-full text-center">
-                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-4 ml-4">FEATURED PRODUCTS</h2>
-                    <p className="font-normal text-sm text-gray-600 dark:text-gray-100 mt-1 ml-4 underline decoration-sky-500/30">Meet Our Handpicked Favorites</p>
+                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-4 ">FEATURED PRODUCTS</h2>
+                    <p className="font-normal text-sm text-gray-600 dark:text-gray-100 mt-1  underline decoration-sky-500/30">Meet Our Handpicked Favorites</p>
      </div>
-    
+
                 <div className="container mx-auto">
-        
-        <div className="flex items-center justify-center w-full h-full py-24 sm:py-8 px-4">
-            
+
+        <div className="flex items-center justify-center w-full h-full py-8 sm:py-8 px-4">
+
             {/* Carousel for desktop and large size devices */}
             <CarouselProvider className="lg:block hidden" naturalSlideWidth={100} isIntrinsicHeight={true} totalSlides={7} visibleSlides={4} step={1} infinite={true}>
                 <div className="w-full relative flex items-center justify-center">
@@ -135,9 +135,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Tea} alt="black chair and white table" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Tea</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -146,9 +146,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Apparel} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Apparel</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -157,9 +157,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Coffee} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Coffee</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -168,9 +168,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Pearl} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Pearl</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -179,9 +179,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Tea} alt="black chair and white table" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Tea</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -190,9 +190,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Jwellery} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Gold</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -201,9 +201,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Diamond} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Diamond</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -234,9 +234,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Tea} alt="black chair and white table" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 1</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Tea</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -245,9 +245,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Apparel} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Apparel</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -256,9 +256,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Coffee} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Coffee</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -267,9 +267,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Pearl} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Pearl</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -278,9 +278,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Tea} alt="black chair and white table" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Tea</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -289,9 +289,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Jwellery} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Gold</h3>
                                             </div>
                                         </div>
                                     </div>
@@ -300,9 +300,9 @@ export const Carousel = () => {
                                     <div className="flex flex-shrink-0 relative w-full sm:w-auto">
                                         <img src={Diamond} alt="sitting area" className="object-cover object-center w-full" />
                                         <div className="bg-gray-800 bg-opacity-30 absolute w-full h-full p-6">
-                                            <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2>
+                                            {/* <h2 className="lg:text-xl leading-4 text-base lg:leading-5 text-white">Catalog 2</h2> */}
                                             <div className="flex h-full items-end pb-6">
-                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Minimal Interior</h3>
+                                                <h3 className="text-xl lg:text-2xl font-semibold leading-5 lg:leading-6 text-white">Diamond</h3>
                                             </div>
                                         </div>
                                     </div>

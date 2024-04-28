@@ -9,7 +9,7 @@ export const Contact = () => {
   return (
     <>
     <div className="mb-4 sm:mb-0 md:mb-0 lg:mb-0 xl:mb-0 lg:w-full text-center mb-2">
-                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-4 ml-4">CONTACT US</h2>
+                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold ml-4">CONTACT US</h2>
                     <p className="font-normal text-sm text-gray-600 dark:text-gray-100 mt-1 mb-4 ml-4 underline decoration-sky-500/30">Don't Hesitate to Drop Us a Line</p>
      </div>
      <div className=" 2xl:container 2xl:mx-auto md:py-6 lg:px-20 md:px-6 py-9 px-4 bg-gray-200 bg-opacity-60">
