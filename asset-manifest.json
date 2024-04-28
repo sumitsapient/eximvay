@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/eximvay/static/css/main.f396b6ee.css",
+    "main.js": "/eximvay/static/js/main.dd60be15.js",
+    "static/media/diamond.jpg": "/eximvay/static/media/diamond.87e37b654caecc01beb4.jpg",
+    "static/media/jwellery.jpg": "/eximvay/static/media/jwellery.c0f009b2d67c43b66d5e.jpg",
+    "static/media/coffee.jpg": "/eximvay/static/media/coffee.19028a4120ab588a9534.jpg",
+    "static/media/pearl.jpg": "/eximvay/static/media/pearl.bb40a89dd0a0ec8b43fe.jpg",
+    "static/media/tea.jpg": "/eximvay/static/media/tea.2d1f410578fecfd98a6f.jpg",
+    "static/media/apparel.jpg": "/eximvay/static/media/apparel.efadb661095ff9718484.jpg",
+    "static/media/laptop.jpg": "/eximvay/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/shipping.jpg": "/eximvay/static/media/shipping.08ed4855624a7c33b3ac.jpg",
+    "static/media/single.png": "/eximvay/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/eximvay/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/eximvay/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/eximvay/index.html",
+    "main.f396b6ee.css.map": "/eximvay/static/css/main.f396b6ee.css.map",
+    "main.dd60be15.js.map": "/eximvay/static/js/main.dd60be15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f396b6ee.css",
+    "static/js/main.dd60be15.js"
+  ]
+}
