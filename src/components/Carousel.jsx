@@ -13,7 +13,7 @@ export const Carousel = () => {
   return (
     <>
     <div className="mb-4 sm:mb-0 md:mb-0 lg:mb-0 xl:mb-0 lg:w-full text-center">
-                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-4 ">FEATURED PRODUCTS</h2>
+                    <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-8 ">FEATURED PRODUCTS</h2>
                     <p className="font-normal text-sm text-gray-600 dark:text-gray-100 mt-1  underline decoration-sky-500/30">Meet Our Handpicked Favorites</p>
      </div>
 
