@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/eximvay/static/css/main.0a181d91.css",
-    "main.js": "/eximvay/static/js/main.0e1807ee.js",
+    "main.css": "/eximvay/static/css/main.6152f1a3.css",
+    "main.js": "/eximvay/static/js/main.b14f1d3b.js",
     "static/media/stone.jpg": "/eximvay/static/media/stone.4c6a758066967cf3d523.jpg",
+    "static/media/herbs.jpg": "/eximvay/static/media/herbs.9841db64da48771a6ddc.jpg",
     "static/media/handicraft.jpg": "/eximvay/static/media/handicraft.8a50ebb1962c836250ca.jpg",
     "static/media/diamond.jpg": "/eximvay/static/media/diamond.87e37b654caecc01beb4.jpg",
-    "static/media/jwellery.jpg": "/eximvay/static/media/jwellery.c0f009b2d67c43b66d5e.jpg",
+    "static/media/gold.jpg": "/eximvay/static/media/gold.c0f009b2d67c43b66d5e.jpg",
+    "static/media/ayurvedic.jpg": "/eximvay/static/media/ayurvedic.500f5d6889243f0155b9.jpg",
     "static/media/textile.jpg": "/eximvay/static/media/textile.c580b8918befeba0e9d1.jpg",
     "static/media/green-sea.jpg": "/eximvay/static/media/green-sea.bde1da161f27b497fd93.jpg",
     "static/media/white-container-ship-mobile.jpg": "/eximvay/static/media/white-container-ship-mobile.7f727a915683459e5c88.jpg",
+    "static/media/oils.jpg": "/eximvay/static/media/oils.c2a35094b8a1a8ff593f.jpg",
     "static/media/coffee.jpg": "/eximvay/static/media/coffee.19028a4120ab588a9534.jpg",
     "static/media/tea.jpg": "/eximvay/static/media/tea.2d1f410578fecfd98a6f.jpg",
     "static/media/apparel.jpg": "/eximvay/static/media/apparel.efadb661095ff9718484.jpg",
     "static/media/laptop.jpg": "/eximvay/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "index.html": "/eximvay/index.html",
-    "main.0a181d91.css.map": "/eximvay/static/css/main.0a181d91.css.map",
-    "main.0e1807ee.js.map": "/eximvay/static/js/main.0e1807ee.js.map"
+    "main.6152f1a3.css.map": "/eximvay/static/css/main.6152f1a3.css.map",
+    "main.b14f1d3b.js.map": "/eximvay/static/js/main.b14f1d3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a181d91.css",
-    "static/js/main.0e1807ee.js"
+    "static/css/main.6152f1a3.css",
+    "static/js/main.b14f1d3b.js"
   ]
 }
