@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eximvay/static/css/main.e3082969.css",
-    "main.js": "/eximvay/static/js/main.7e9e8141.js",
+    "main.css": "/eximvay/static/css/main.0a181d91.css",
+    "main.js": "/eximvay/static/js/main.a98ae778.js",
     "static/media/stone.jpg": "/eximvay/static/media/stone.4c6a758066967cf3d523.jpg",
     "static/media/handicraft.jpg": "/eximvay/static/media/handicraft.8a50ebb1962c836250ca.jpg",
     "static/media/diamond.jpg": "/eximvay/static/media/diamond.87e37b654caecc01beb4.jpg",
@@ -14,11 +14,11 @@
     "static/media/white-container-ship.jpg": "/eximvay/static/media/white-container-ship.a00f0d543d155a402635.jpg",
     "static/media/laptop.jpg": "/eximvay/static/media/laptop.45ddf500e572fb2f1d35.jpg",
     "index.html": "/eximvay/index.html",
-    "main.e3082969.css.map": "/eximvay/static/css/main.e3082969.css.map",
-    "main.7e9e8141.js.map": "/eximvay/static/js/main.7e9e8141.js.map"
+    "main.0a181d91.css.map": "/eximvay/static/css/main.0a181d91.css.map",
+    "main.a98ae778.js.map": "/eximvay/static/js/main.a98ae778.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3082969.css",
-    "static/js/main.7e9e8141.js"
+    "static/css/main.0a181d91.css",
+    "static/js/main.a98ae778.js"
   ]
 }
