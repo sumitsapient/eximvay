@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eximvay/static/css/main.d179d24b.css",
-    "main.js": "/eximvay/static/js/main.893cf006.js",
+    "main.css": "/eximvay/static/css/main.59f978bc.css",
+    "main.js": "/eximvay/static/js/main.db7fabf3.js",
     "static/media/stone.jpg": "/eximvay/static/media/stone.4c6a758066967cf3d523.jpg",
     "static/media/herbs.jpg": "/eximvay/static/media/herbs.9841db64da48771a6ddc.jpg",
     "static/media/handicraft.jpg": "/eximvay/static/media/handicraft.8a50ebb1962c836250ca.jpg",
@@ -10,18 +10,28 @@
     "static/media/ayurvedic.jpg": "/eximvay/static/media/ayurvedic.500f5d6889243f0155b9.jpg",
     "static/media/textile.jpg": "/eximvay/static/media/textile.c580b8918befeba0e9d1.jpg",
     "static/media/green-sea.jpg": "/eximvay/static/media/green-sea.bde1da161f27b497fd93.jpg",
-    "static/media/white-container-ship-mobile.jpg": "/eximvay/static/media/white-container-ship-mobile.7f727a915683459e5c88.jpg",
     "static/media/oils.jpg": "/eximvay/static/media/oils.c2a35094b8a1a8ff593f.jpg",
     "static/media/coffee.jpg": "/eximvay/static/media/coffee.19028a4120ab588a9534.jpg",
     "static/media/tea.jpg": "/eximvay/static/media/tea.2d1f410578fecfd98a6f.jpg",
     "static/media/apparel.jpg": "/eximvay/static/media/apparel.efadb661095ff9718484.jpg",
     "static/media/laptop.jpg": "/eximvay/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/tea.pdf": "/eximvay/static/media/tea.40c3c538daac04a80ba2.pdf",
+    "static/media/diamond.pdf": "/eximvay/static/media/diamond.8317ca8c36a655a44b46.pdf",
+    "static/media/textile.pdf": "/eximvay/static/media/textile.e26534508e5630c7433d.pdf",
+    "static/media/stone.pdf": "/eximvay/static/media/stone.9d31aef2050f5a9e66b7.pdf",
+    "static/media/herbs.pdf": "/eximvay/static/media/herbs.58882a20832204c907e0.pdf",
+    "static/media/gold.pdf": "/eximvay/static/media/gold.0750a3612752c7b69b8d.pdf",
+    "static/media/coffee.pdf": "/eximvay/static/media/coffee.c06b7ee85cfabc13f2f5.pdf",
+    "static/media/handicraft.pdf": "/eximvay/static/media/handicraft.7f99e87a6d627a6639cb.pdf",
+    "static/media/ayurvedic.pdf": "/eximvay/static/media/ayurvedic.31d2d4d3baf5dcf97f0e.pdf",
+    "static/media/oils.pdf": "/eximvay/static/media/oils.4e7f5ee3c7137a53f237.pdf",
+    "static/media/apparel.pdf": "/eximvay/static/media/apparel.8a8c9f047d3189a4ebc2.pdf",
     "index.html": "/eximvay/index.html",
-    "main.d179d24b.css.map": "/eximvay/static/css/main.d179d24b.css.map",
-    "main.893cf006.js.map": "/eximvay/static/js/main.893cf006.js.map"
+    "main.59f978bc.css.map": "/eximvay/static/css/main.59f978bc.css.map",
+    "main.db7fabf3.js.map": "/eximvay/static/js/main.db7fabf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.d179d24b.css",
-    "static/js/main.893cf006.js"
+    "static/css/main.59f978bc.css",
+    "static/js/main.db7fabf3.js"
   ]
 }
