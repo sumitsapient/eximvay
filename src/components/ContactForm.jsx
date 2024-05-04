@@ -18,7 +18,7 @@ export const ContactForm = () => {
         e.preventDefault();
         showLoader(true);
         try {
-          const response  = await axios.post("http://localhost:3001/api/send", { 
+          const response  = await axios.post("https://nodemailer-en33.onrender.com/api/send", { 
             client,
             email,
             company,
