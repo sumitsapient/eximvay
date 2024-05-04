@@ -29,7 +29,7 @@ import { Link } from 'react-router-dom';
 export const ProductDetail = () => {
   const param = useParams();
   const {productId} = param;
-  const product = productData.find(m=> m.name == productId);
+  const product = productData.find(m=> m.name === productId);
   let imageName =
       {"coffee": Coffee, "apparel": Apparel, "diamond": Diamond,"stone": Stone,"gold": Gold,"handicraft": Handicraft,"tea": Tea,
       "textile": Textile,"oils": Oils,"herbs": Herbs,"ayurvedic": Ayurvedic}

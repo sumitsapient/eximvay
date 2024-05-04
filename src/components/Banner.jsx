@@ -2,12 +2,7 @@ import React from 'react';
 import Shipping from '../assets/green-sea.jpg';
 import { FaArrowRight, FaFacebook, FaLinkedinIn, FaWhatsapp } from 'react-icons/fa';
 import {
-  FaEnvelope,
-  FaFacebookSquare,
-  FaInstagram,
-  FaLinkedin,
-  FaPhone,
-  FaTwitterSquare,
+  FaInstagram
 } from 'react-icons/fa';
 
 
