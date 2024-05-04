@@ -22,7 +22,7 @@ With each carefully curated offering, we strive to illuminate the richness of In
 
 Hope we can generate value in your lives with our products and work.</p>
 <div className="font-normal text-xl text-center mt-4 pb-1 text-gray">Apoorva Yadav</div>
-                                    <p className="text-gray-800 text-sm text-center underline decoration-pink-500/30">Founder and CEO</p>
+                                    <p className="text-gray-800 text-sm text-center">Founder and CEO</p>
                                     <div className="w-full flex justify-center pt-5 pb-5">
                                         <a href="#" className="mx-5">
                                             <div>
@@ -50,22 +50,6 @@ Hope we can generate value in your lives with our products and work.</p>
                                     </div>
                                 </div>
 
-
-
-
-
-    {/* <p>
-
-    Welcome to our haven of conscientious commerce, where every transaction tells a story of passion, purpose, and profound respect for our planet. Founded with a heartfelt commitment to sustainability and environmental stewardship, our journey began with a deeply personal revelation.
-
-As the founder, I've witnessed firsthand the sobering consequences of unchecked industrial practices on our environment. Motivated by a desire to effect positive change, I embarked on a mission to create a brand that not only prioritizes sustainability but also serves as a beacon of hope for future generations.
-
-Our ethos is simple yet profound: every product, every business endeavor, and every interaction must reflect our unwavering dedication to environmental responsibility and cultural preservation. It's a belief rooted in my own experiences and a firm conviction that businesses can thrive while treading lightly on the Earth.
-
-With each carefully curated offering, we strive to illuminate the richness of India's cultural heritage while championing the timeless values of sustainability and mindful consumption. Our platform is more than a marketplace; it's a testament to the transformative power of conscious commerce and the enduring impact of individual actions.
-
-Hope we can generate value in your lives with our products and work.
-    </p> */}
      </div>
     </div>
 

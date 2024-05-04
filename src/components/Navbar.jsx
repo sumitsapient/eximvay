@@ -36,7 +36,7 @@ const Navbar = () => {
       <Link to="/"> <h1 className='w-full text-3xl font-bold text-black m-4'>VAY</h1></Link>
           <Link to="/about"><li className='p-4 border-b border-gray-600' onClick={closeNav}>About us</li></Link>
           <Link to="/product"><li className='p-4 border-b border-gray-600' onClick={closeNav}>Products</li></Link>
-          <HashLink smooth to='#contact'><li className='p-4 border-b border-gray-600' onClick={closeNav}>Contact</li></HashLink>
+          <Link  to='/contact'><li className='p-4 border-b border-gray-600' onClick={closeNav}>Contact</li></Link>
       </ul>
       
       
