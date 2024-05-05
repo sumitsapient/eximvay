@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
-import { Link } from 'react-router-dom';
+import { Link,useLocation } from 'react-router-dom';
 import { HashLink } from 'react-router-hash-link';
+
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
-  
-  const isHomePage = window.location.pathname === '/';
+  const location = useLocation();
+  const isHomePage = location.pathname === '/';
   
   const handleNav = () => {
     setNav(!nav);
