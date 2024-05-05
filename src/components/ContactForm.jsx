@@ -37,10 +37,10 @@ export const ContactForm = () => {
         <div className="bg-gray-100 w-full " >
             <h1 className="mt-8 md:mt-12 text-xl lg:text-3xl font-semibold leading-10 text-center text-gray-800 pt-7">I want to ...</h1>
              <div className="mt-12 md:mt-14 w-full flex justify-center">
-                        <button className="w-full bg-[#f58b33] sm:w-auto shadow-lg text-white rounded-full font-medium text-white-800 py-5 px-14 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-800 hover:bg-white hover:text-[#f58b33]">
+                        <button className="w-full bg-[#f58b33] sm:w-auto shadow-lg text-white rounded-xl font-medium text-white-800 py-5 px-14 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white hover:bg-white hover:text-[#f58b33]">
                             BUY
                         </button>
-                        <button className="w-full ml-8 sm:w-auto bg-[#f58b33] shadow-lg  rounded-full text-white font-medium text-gray-800 py-5 px-14 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-800 hover:bg-white hover:text-[#f58b33]">
+                        <button className="w-full ml-8 sm:w-auto bg-[#f58b33] shadow-lg  rounded-xl text-white font-medium text-gray-800 py-5 px-14 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-white hover:bg-white hover:text-[#f58b33]">
                             SELL
                         </button>
                     </div>
