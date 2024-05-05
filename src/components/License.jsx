@@ -9,6 +9,7 @@ export const License = () => {
                     <h2 className="text-gray-800 dark:text-gray-100 text-lg font-bold mt-4 ml-4">LICENSE DETAILS</h2>
                     <p className="font-normal text-sm text-gray-600 dark:text-gray-100 mt-1 mb-4 ml-4">Facilitating global trade with integrity.</p>
      </div>
+     <div className="flex items-center justify-center w-full h-full py-8 sm:py-8 px-16">
      <Marquee speed={50} delay={0} pauseOnHover={false}>
     {/* License one */}
     <div className="flex items-center justify-between w-full mb-4 z-0">
@@ -31,7 +32,8 @@ export const License = () => {
        
     </div>
 </div>
-</Marquee>
+    </Marquee>
+    </div>
 
     </>
   )
