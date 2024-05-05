@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/eximvay/static/css/main.a023666f.css",
-    "main.js": "/eximvay/static/js/main.a9c86b29.js",
+    "main.css": "/eximvay/static/css/main.68c6bcd1.css",
+    "main.js": "/eximvay/static/js/main.54d9e798.js",
     "static/media/stone.jpg": "/eximvay/static/media/stone.4c6a758066967cf3d523.jpg",
     "static/media/herbs.jpg": "/eximvay/static/media/herbs.9841db64da48771a6ddc.jpg",
     "static/media/handicraft.jpg": "/eximvay/static/media/handicraft.8a50ebb1962c836250ca.jpg",
@@ -27,11 +27,11 @@
     "static/media/oils.pdf": "/eximvay/static/media/oils.4e7f5ee3c7137a53f237.pdf",
     "static/media/apparel.pdf": "/eximvay/static/media/apparel.8a8c9f047d3189a4ebc2.pdf",
     "index.html": "/eximvay/index.html",
-    "main.a023666f.css.map": "/eximvay/static/css/main.a023666f.css.map",
-    "main.a9c86b29.js.map": "/eximvay/static/js/main.a9c86b29.js.map"
+    "main.68c6bcd1.css.map": "/eximvay/static/css/main.68c6bcd1.css.map",
+    "main.54d9e798.js.map": "/eximvay/static/js/main.54d9e798.js.map"
   },
   "entrypoints": [
-    "static/css/main.a023666f.css",
-    "static/js/main.a9c86b29.js"
+    "static/css/main.68c6bcd1.css",
+    "static/js/main.54d9e798.js"
   ]
 }
