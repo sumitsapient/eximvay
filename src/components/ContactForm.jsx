@@ -3,16 +3,17 @@ import axios from "axios";
 import { Loader } from './Loader';
 import { EmailModal } from './EmailModal';
 import { ColorRing, ThreeDots } from 'react-loader-spinner';
+import { useNavigate } from 'react-router-dom';
 
 export const ContactForm = () => {
-
+    let navigate = useNavigate();
     const [client, setClient] = useState("");  
     const [email, setEmail] = useState("");
     const [company, setCompany] = useState("");
     const [country, setCountry] = useState("");
     const [message, setMessage] = useState("");
     const [loader, showLoader] = useState(false);
-    const [modal, showModal] = useState(false);
+    // const [modal, showModal] = useState(false);
 
     const handleSubmit = async (e) => {
         e.preventDefault();
@@ -27,7 +28,7 @@ export const ContactForm = () => {
           });
           if (response.status === 200) {
             showLoader(false);
-            showModal(true);
+            navigate('/thankyou', { replace: true });
          }
         } catch(err) {
           alert(err);
@@ -98,7 +99,7 @@ export const ContactForm = () => {
                 </div>
             
         )} {/* Show loader when loader state is true */}
-         { modal && <EmailModal />} {/* Show modal when modal state is true */}
+         {/* { modal && <EmailModal />} Show modal when modal state is true */}
                 <div className="flex items-center justify-center w-full">
                     <button type="submit" className="mt-9 text-base font-normal leading-none text-white py-4 px-10 bg-[#333f7f] rounded hover:bg-indigo-600 focus:ring-2 focus:ring-offset-2 focus:ring-indigo-700 focus:outline-none">SUBMIT</button>
                 </div>
