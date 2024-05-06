@@ -22,7 +22,7 @@ const Footer = () => {
         <ul>
             <li className='py-2 text-sm flex items-center'><FaLocationDot size={25} /> <span>&nbsp; Mumbai & Bengaluru</span></li>
             <li className='py-2 text-sm flex items-center'><FaEnvelope size={25} /><span>&nbsp; contact@eximvay.com</span></li>
-            <li className='py-2 text-sm flex items-center'><FaPhone size={25} /><span>&nbsp;+91 123456789</span></li>
+            <li className='py-2 text-sm flex items-center'><FaPhone size={25} /><span>&nbsp;+91 8591362338</span></li>
           
         </ul>
         <div className='flex justify-between md:w-[75%] my-6'>
